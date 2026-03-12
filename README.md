@@ -58,12 +58,6 @@ open index.html
 
 ---
 
-## Why this gets traffic
-
-Fractions are taught in every school, every year, globally. Students, parents helping with homework, and people scaling recipes all search for fraction help constantly. The step-by-step working feature captures searches like *"fraction calculator with steps"* — one of the highest-volume math tool searches with relatively weak competition.
-
----
-
 ## Tech stack
 
 - Plain HTML5
